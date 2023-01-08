@@ -144,5 +144,10 @@ h3{
     padding: 20px;
     margin: 25px 0;
     width: 250px;
+    display: block;
+    background-color: black;
+    color: aliceblue;
+    border: 1px solid aliceblue;
+    border-radius: 5px;
     
 }
